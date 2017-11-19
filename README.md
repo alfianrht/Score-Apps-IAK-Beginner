@@ -1,1 +1,1 @@
-# Score-Apps-IAK-Beginner-
+# Score-Apps-IAK-Beginner
