@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FED220</color>
+    <color name="colorPrimaryDark">#FED220</color>
+    <color name="colorAccent">#74899C</color>
+    <color name="colorGray">#A9B1B4</color>
+    <color name="colorWhiteBackground">#F4F7F9</color>
+
+</resources>
